@@ -1,0 +1,5 @@
+gcp_project = PROJECT_ID # Insert Project ID here
+gcp_zone = "us-east4-c"
+gcp_region = "us-east4"
+gitlab_url = GL_URL # Add your Gitlab URL
+ci_token = GL_TOKEN # Add your GitLab Token
